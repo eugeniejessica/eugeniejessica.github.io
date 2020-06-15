@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+      color: white;    
+ }
+.h1{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(241, 101, 129);
+    }
+
+.img{
+    width: 450px;
+    }
+
+.h5{
+    color: rgb(153, 80, 95);
+}
+
+.ul{
+    color: rgb(241, 101, 129);
+
+}
+
+.ol{
+    color: rgb(241, 101, 129);
+
+}
+.content {
+    width: 600px;
+    margin: 0 auto;
+
+
+}
